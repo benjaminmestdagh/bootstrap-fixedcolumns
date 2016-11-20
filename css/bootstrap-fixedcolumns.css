@@ -1,0 +1,13 @@
+.table-responsive > .fixed-columns {
+    position: absolute;
+    display: inline-block;
+    width: auto;
+    border-right: 1px solid #ddd;
+    background-color: #fff;
+}
+
+.table-responsive > .table-bordered.fixed-columns {
+    border-bottom: 0;    
+    border-left: 0;    
+    border-right: 0;    
+}
